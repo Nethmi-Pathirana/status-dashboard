@@ -1,1 +1,1 @@
-# status-dashbord
+# status-dashboard
